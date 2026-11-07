@@ -1,6 +1,7 @@
 # Hi there, I'm Raghavendra Chandrakantha Bhat 👋
-### Aspiring AI/ML Engineer & Software Developer | MCA Student @ Bangalore University
+### Software Developer & Applied AI Engineer | MCA @ Bangalore University
 
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-0284C7?style=flat&logo=googlechrome&logoColor=white)](https://raghavendrabhat2001.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghavendra-bhat-6182a0384)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Raghavendra.c.bhat@gmail.com)
 
